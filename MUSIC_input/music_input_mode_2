@@ -2,7 +2,7 @@ echo_level  1
 beastMode  0
 mode  2
 Initial_profile  13
-Initial_participantList_Filename  initial/participants_event.dat
+Initial_participantList_Filename  /tmp/framework/results/participants_event_0.dat
 ecm  9.2
 Eta_plateau_size  5.4
 Eta_fall_off  0.3
@@ -13,7 +13,7 @@ string_source_sigma_x  0.5
 string_source_sigma_eta  0.2
 stringTransverseShiftFrac  0.0
 stringPreEqFlowFactor  0.0
-Initial_Distribution_input_filename  initial/strings.dat
+Initial_Distribution_input_filename  /tmp/framework/results/strings_event_0.dat
 s_factor  1.0
 Initial_time_tau_0  0.4
 Delta_Tau  0.01
