@@ -26,7 +26,7 @@ Y_grid_size_in_fm  26
 Grid_size_in_x  128
 Grid_size_in_y  128
 gridPadding  3
-EOS_to_use  14
+EOS_to_use  17
 quest_revert_strength  1.0
 Viscosity_Flag_Yes_1_No_0  1
 Include_Shear_Visc_Yes_1_No_0  1
