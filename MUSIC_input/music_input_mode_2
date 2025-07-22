@@ -15,7 +15,7 @@ stringTransverseShiftFrac  0.0
 stringPreEqFlowFactor  0.0
 Initial_Distribution_input_filename  /tmp/framework/results/strings_event_0.dat
 s_factor  1.0
-Initial_time_tau_0  0.4
+Initial_time_tau_0  0.1
 Delta_Tau  0.01
 Total_evolution_time_tau  1
 boost_invariant  0
